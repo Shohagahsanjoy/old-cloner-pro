@@ -1,5 +1,7 @@
-# old-cloner-pro
 
+#  old-cloner-pro
+
+# Must be use Airplane ✈Mod 10sec 🕑
 
 pkg update && pkg upgrade
 
