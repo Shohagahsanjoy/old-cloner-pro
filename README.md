@@ -21,4 +21,4 @@ git clone https://github.com/Shohagahsanjoy/old-cloner-pro
 
 cd old-cloner-pro
 
-python2 old-cloner-143.py
+python old-cloner-143.py
