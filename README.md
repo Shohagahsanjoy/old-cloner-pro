@@ -15,12 +15,14 @@ pkg install pip
 
 pkg install pip2
 
-pip2 install requests
+pip install requests
 
-pip2 install mechanize
+pip install bs4
+
+pip install mechanize
 
 git clone https://github.com/Shohagahsanjoy/old-cloner-pro
 
 cd old-cloner-pro
 
-python old-cloner-143.py
+python old-cloner.py
